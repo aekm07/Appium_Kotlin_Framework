@@ -1,0 +1,12 @@
+ [
+    {
+      "type": "Team",
+      "searchText": "Los Angeles Lakers",
+      "tab": "Stat"
+    },
+    {
+      "type": "Player",
+      "searchText": "Lionel Messi",
+      "tab": "Info"
+    }
+  ]
